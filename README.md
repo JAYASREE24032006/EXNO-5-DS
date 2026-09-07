@@ -1,12 +1,12 @@
-# EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
+# EX : 5 - DATA VISUALIZATION USING MATPLOT LIBRARY
 
-# Aim:
+## AIM:
   To Perform Data Visualization using matplot python library for the given datas.
 
-# EXPLANATION:
+## EXPLANATION:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# Algorithm:
+## ALGORITHM:
 STEP 1:Include the necessary Library.
 
 STEP 2:Read the given Data.
@@ -17,7 +17,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 
 STEP 5:Include Necessary parameters in each functions.
 
-# Coding and Output:
+## PROGRAM:
 ```
 import pandas as pd
 
@@ -233,12 +233,14 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
+
+## OUTPUT:
+
 <img width="643" height="157" alt="image" src="https://github.com/user-attachments/assets/f2d10330-98f8-4397-a044-a8be09749bca" />
 <img width="937" height="568" alt="image" src="https://github.com/user-attachments/assets/88c96a5d-e429-469c-96d6-2521f871ab85" />
 <img width="1080" height="576" alt="image" src="https://github.com/user-attachments/assets/c6246070-d296-461b-90d7-80cea6d914bf" />
 <img width="1078" height="567" alt="image" src="https://github.com/user-attachments/assets/f7a7aaaf-533b-40b5-8a55-1db9074e91e6" />
 <img width="1080" height="572" alt="image" src="https://github.com/user-attachments/assets/664ef462-cf79-4671-8f2a-484b0f5a35bc" />
-
 <img width="897" height="573" alt="image" src="https://github.com/user-attachments/assets/efbbcb8b-b714-4991-b668-1c1a60181078" />
 <img width="928" height="573" alt="image" src="https://github.com/user-attachments/assets/60525994-5c15-4874-972d-4efaa6541bad" />
 <img width="928" height="573" alt="image" src="https://github.com/user-attachments/assets/be3723a6-b327-4056-b2d5-ded164727fc8" />
@@ -255,5 +257,5 @@ plt.show()
 <img width="1067" height="587" alt="image" src="https://github.com/user-attachments/assets/68ee7bd3-d61f-4272-8818-e2e97d2ac79a" />
 <img width="1047" height="592" alt="image" src="https://github.com/user-attachments/assets/02a240f8-81a3-4f1b-aee2-d30a8c3aa1f7" />
 
-# Result:
- Include your result here
+## RESULT:
+ Thus, data visualization was successfully performed on the given dataset using various plot types available in the Matplotlib library (including line plots, horizontal and stacked bar charts, area plots, stackplots, histograms, pie and donut charts, boxplots, and scatter plots).
